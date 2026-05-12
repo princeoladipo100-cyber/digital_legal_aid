@@ -126,7 +126,7 @@ Before running this project, make sure you have the following installed:
 ### Step 1 — Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/princeoladipo100-cyber/digital_legal_aid.git
 cd Digital-Legal-Aid
 ```
 
